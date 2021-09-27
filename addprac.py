@@ -47,7 +47,7 @@ def addprac():
 
             elif ans != addition:
                 print("Nope :( answer is ", addition)
-                print("score is: ", score,"/",count)
+                print("Your score is:  ", score,"/",count)
 
 
 
