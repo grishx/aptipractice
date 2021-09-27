@@ -17,7 +17,7 @@ def addprac():
             break
 
         elif (state=="lb"):
-            lB=int(input(">>Enter lower bound "))
+            lb=int(input(">>Enter lower bound "))
 
         elif (state=="hb"):
             hB=int(input(">>Enter higher bound  "))
@@ -40,7 +40,7 @@ def addprac():
             count= count+1
 
             if ans==addition:
-                print("Correct Answer!!")
+                print("Correct Answer!!!!!")
                 score = score +1
                 print("score is: ", score,"/",count)
 
