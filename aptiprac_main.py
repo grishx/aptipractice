@@ -5,7 +5,7 @@ print("Hello! \nEnter choices:\n1.Addition Practice\n2.Squares Practice\n3.Cubes
 while(1):
     ip= input(">")
     if ip == "exit":
-        print("byee")
+        print("byeeee")
         break
     if ip == "cls":
         os.system("cls")
